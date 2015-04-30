@@ -1,0 +1,4 @@
+[global]
+floatX=float32
+exception_verbosity=high
+optimizer=fast_compile
